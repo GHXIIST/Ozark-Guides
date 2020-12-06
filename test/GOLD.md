@@ -1,4 +1,4 @@
-# Øzark Gold Guide
+## Øzark Gold Guide
 
 #### How to give yourself gold:
 1. Go into 'Network > Account > Treasure [RISK]'
