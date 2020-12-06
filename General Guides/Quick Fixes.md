@@ -16,5 +16,8 @@ ___
 - #### Q: Does Øzark work on Windows 7?
 - #### A: Yes it does.
 ___
+- #### Q: What does the [SH] tag next to a play means?
+- #### A: The [SH] tags stands for "Script Host", Script host is the host of scripted events like free mode/free roam events as an example.
+___
 - #### Q: What's the Overseer?
 - #### A: It's basically a list where you can save other players. If you saved players, you can join them, as an example, at anytime.
