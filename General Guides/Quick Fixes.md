@@ -4,8 +4,8 @@
 ## Common Problems and Solutions/Fixes:
 - #### Q: My game crashes or keeps crashing after enabling a certain option.
 - #### A: Go into your Øzark folder and delete your 'Config.ini' (Location: Documents > Ozark) or edit it and disable the certain option.
-___
-___
+
+
 ## Some Random Q&A:
 - #### Q: When do I inject?
 - #### A: At the main menu, not in SP, not in online.
