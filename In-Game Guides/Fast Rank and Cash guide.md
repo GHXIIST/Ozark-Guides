@@ -7,7 +7,7 @@
 3. Select either "coins" or "heirlooms" under 'Pickups'.
 4. Then spawn 10 coin/heirloom sets by pressing the selected option (coins/heirlooms) ten times.
 5. Loot the spanwed chests until they're all empty.
-6. After you finished looting, go to 'World > Delete Nearby Enteties' and delete the spanwed chests by pressing the "Delete Nearby Enteties" option.
+6. After you finished looting, go to `World > Delete Nearby Enteties` and delete the spanwed chests by pressing the "Delete Nearby Enteties" option.
 
 ##### Way number 2 (Madam Nazar/Post Office) - Steps:
 1. Go into `Network > Account > Treasure [RISK]`.
