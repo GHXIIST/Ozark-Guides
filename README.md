@@ -4,6 +4,7 @@
 ## General Øzark Guides:
 - [How to redeem your token](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20redeem%20your%20token.md)
 - [How to reset your HWID](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20reset%20your%20HWID.md)
+- [How to install scripts](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20install%20scripts.md)
 - [Quick Fixes (not finished yet!)](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/Quick%20Fixes.md)
 
 ## In-Game Guides:
