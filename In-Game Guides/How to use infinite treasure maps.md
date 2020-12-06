@@ -14,4 +14,4 @@
 4. After you finished looting, just teleport a bit away from the treasure (not too far, but also not too close).
 5. Go back to you inventory, you'll see that you still have the treasure map that you originally used.
 6. Now you can just repeat everything you did so far (Step 2. till step 4.).
-Note: It's not recommended to get over a 100 gold, with infinite treasure maps, per 24 hours (irl).
+Note: It's not recommended to get over a 100 gold, with infinite treasure maps, per 24 hours (irl-time).
