@@ -13,5 +13,8 @@ ___
 - #### Q: How can I open Øzark using a controller?
 - #### A: For Xbox press RB & Right, for PS4 press R1 & DpadRight.
 ___
+- #### Q: Does Øzark work on Windows 7?
+- #### A: Yes it does.
+___
 - #### Q: What's the Overseer?
 - #### A: It's basically a list where you can save other players. If you saved players, you can join them, as an example, at anytime.
