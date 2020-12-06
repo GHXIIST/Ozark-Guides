@@ -10,3 +10,4 @@
 - [Gold Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Gold%20Guide.md)
 - [Infinite Treasure Maps Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20Moonshine%20Role%20Booster.md)
 - [Moonshine Role Booster Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20infinite%20treasure%20maps.md)
+- [Trader Role Booster Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20Trader%20Role%20Booster.md)
