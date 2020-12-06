@@ -1,4 +1,4 @@
-## Quick Fixes For Øzark
+# Quick Fixes For Øzark
 
 
 ## Common Problems and Solutions/Fixes:
