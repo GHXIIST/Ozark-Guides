@@ -1,4 +1,4 @@
-## How to give yourself gold:
+### How to give yourself gold:
 
 1. Go into 'Network > Account > Treasure [RISK]'
 2. Scroll down to "Pickup Type" and select "Gold [2]".
