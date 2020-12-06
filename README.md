@@ -2,8 +2,8 @@
 ### A collection of Øzark Guides in written form.
 
 ## General Øzark Guides:
-- [How to reset your HWID](https://github.com/GHXIIST/Ozark-Guides/blob/master/How%20to%20reset%20your%20HWID.txt)
-- [Quick Fixes (not finished yet!)](https://github.com/GHXIIST/Ozark-Guides/blob/master/Quick%20Fixes.txt)
+- [How to reset your HWID](https://github.com/GHXIIST/Ozark-Guides/blob/master/Quick%20Fixes/How%20to%20reset%20your%20HWID.md)
+- [Quick Fixes (not finished yet!)](https://github.com/GHXIIST/Ozark-Guides/blob/master/Quick%20Fixes/Quick%20Fixes.md)
 
 ## In-Game Guides:
 - [Rank & Cash Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fast%20Rank%20and%20Cash%20guide.txt)
