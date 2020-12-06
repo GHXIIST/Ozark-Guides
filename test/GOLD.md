@@ -1,6 +1,6 @@
 ## Øzark Gold Guide
 
-#### How to give yourself gold:
+#### __How to give yourself gold:__
 1. Go into 'Network > Account > Treasure [RISK]'
 2. Scroll down to "Pickup Type" and select "Gold [2]".
 3. Then go down to "Pickup Count" and set the pickup count to 10.
