@@ -11,7 +11,7 @@ ___
 - #### A: At the main menu, not in SP, not in online.
 ___
 - #### Q: How can I open Øzark using a controller?
-- #### A: Press RB-Right.
+- #### A: For Xbox press RB & Right, for PS4 press R1 & DpadRight.
 ___
 - #### Q: What's the Overseer?
 - #### A: It's basically a list where you can save other players. If you saved players, you can join them, as an example, at anytime.
