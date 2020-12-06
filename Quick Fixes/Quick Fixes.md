@@ -1,11 +1,11 @@
 ## Quick Fixes For Øzark
 
-#### Common Problems and Solutions/Fixes:
+### Common Problems and Solutions/Fixes:
 ___
 ##### Q: My game crashes or keeps crashing after enabling a certain option.
 ##### A: Go into your Øzark folder and delete your 'Config.ini' (Location: Documents > Ozark).
 
-#### Some Random Q&A:
+### Some Random Q&A:
 ___
 ##### Q: When do I inject?
 ##### A: At the main menu, not in SP, not in online.
