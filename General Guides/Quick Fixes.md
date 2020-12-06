@@ -10,6 +10,9 @@ ___
 - #### Q: When do I inject?
 - #### A: At the main menu, not in SP, not in online.
 ___
+- #### Q: How do I open Øzark?
+- #### A: You open Øzark by pressing F4.
+___
 - #### Q: How can I open Øzark using a controller?
 - #### A: For Xbox press RB & Right, for PS4 press R1 & DpadRight.
 ___
