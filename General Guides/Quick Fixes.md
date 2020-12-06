@@ -10,6 +10,9 @@ ___
 ___
 - #### Q: When I run the launcher it says "why u heff vm mayne".
 - #### A: Disable your VM or disable (hardware) virtualization.
+___
+- #### Q: How to fix "Bad Image" error.
+- #### A: Run Øzark using a VPN.
 
 
 ## Some Random Q&A:
