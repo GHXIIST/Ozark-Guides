@@ -1,4 +1,4 @@
-## Øzark Installing Scipts Guide
+# Øzark Installing Scipts Guide
 
 #### How to install scripts:
 
