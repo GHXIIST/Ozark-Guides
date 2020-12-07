@@ -10,4 +10,4 @@ You want to diable you anti-virus because it keeps deleting Øzark, but you can'
 1. Press `Windows key + R` and type `regedit`.
 2. Navigate to `HKEY_LOCAL_MACHINE > SOFTWARE > Policies > Microsoft > Windows Defender`.
 3. Then select `DisableAntiSpyware`, right-click and press 'Delete'.
-4. Confirm your change.
+4. Confirm your change and you're done.
