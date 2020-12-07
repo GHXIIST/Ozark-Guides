@@ -23,7 +23,7 @@ ___
 - A: You open Øzark by pressing F4.
 ___
 - **Q:** How can I open Øzark using a controller?
-- **A:** For Xbox press RB & Right, for PS4 press R1 & DpadRight.
+- **A:** For Xbox press `RB & Right`, for PS4 press `R1 & DpadRight`.
 ___
 - **Q:** Does Øzark work on Windows 7?
 - **A:** Yes it does.
