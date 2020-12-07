@@ -1,11 +1,15 @@
 # Øzark Guides
 ### A collection of Øzark Guides in written form.
 
+
+## Fixes
+- [How to fix "Your Virus & threat protection is managed by your organisation"](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20fix%20%22Your%20Virus%20%26%20threat%20protection%20is%20managed%20by%20your%20organisation%22.md)
+- [Quick Fixes (not finished yet!)](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/Quick%20Fixes.md)
+
 ## General Øzark Guides:
 - [How to redeem your token](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20redeem%20your%20token.md)
 - [How to reset your HWID](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20reset%20your%20HWID.md)
 - [How to install scripts](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20install%20scripts.md)
-- [Quick Fixes (not finished yet!)](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/Quick%20Fixes.md)
 
 ## In-Game Guides:
 - [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Player%20Tags.md)
