@@ -1,7 +1,7 @@
 # Øzark Rank and Cash Guide
 
 ### How to get rank up in no-time and get cash fast:
-####   Way number 1 - Steps:
+#### Way number 1 - Steps:
 1. Go into `Network > Account > Treasure [RISK]`.
 2. Enable "Auto Sell Coin Sets" and if you want also "Speedy Loot".
 3. Select either "coins" or "heirlooms" under 'Pickups'.
