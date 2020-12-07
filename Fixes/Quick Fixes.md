@@ -2,14 +2,14 @@
 
 
 ## Common Problems and Solutions/Fixes:
-- #### Q: My game crashes or keeps crashing after enabling a certain option.
-- #### A: Go into your Øzark folder and delete your `Config.ini` (Location: `Documents/Ozark`) or edit it and disable the certain option.
+- Q: My game crashes or keeps crashing after enabling a certain option.
+- A: Go into your Øzark folder and delete your `Config.ini` (Location: `Documents/Ozark`) or edit it and disable the certain option.
 ___
-- #### Q: Øzark wont launch/my game keeps crashing.
-- #### A: If you have programs like "Process Hacker/Process Hacker 2" opended or trying to inject Øzark with Process Hacker, close them and try again/use Xenos.
+- Q: Øzark wont launch/my game keeps crashing.
+- A: If you have programs like "Process Hacker/Process Hacker 2" opended or trying to inject Øzark with Process Hacker, close them and try again/use Xenos.
 ___
-- #### Q: When I run the launcher it says "why u heff vm mayne".
-- #### A: Disable your VM or disable (hardware) virtualization.
+- Q: When I run the launcher it says "why u heff vm mayne".
+- A: Disable your VM or disable (hardware) virtualization.
 ___
 - #### Q: How to fix "Bad Image" error.
 - #### A: Run Øzark using a VPN.
