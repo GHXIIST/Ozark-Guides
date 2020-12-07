@@ -1,5 +1,5 @@
 ## How to fix "Your Virus & threat protection is managed by your organisation"
-You want to diable you anti-virus because it keeps deleting Øzark, but you can't, because it says "Your Virus & threat protection is managed by your organisation"? This should solve your problem, use the second guide if the first guide doesn't work cause "Windows can't find `gpedit.msc`".
+You want to diable you anti-virus because it keeps deleting Øzark, but you can't, because it says "Your Virus & threat protection is managed by your organisation"? This should solve your problem, use the second guide if the first guide doesn't work cause "Windows can't find gpedit.msc".
 
 #### 1. Windows Pro Edition & Windows Enterprise Edition:
 1. Open Group Policy snap-in by pressing `Windows key + R` and then type `gpedit.msc`.
