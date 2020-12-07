@@ -1,8 +1,7 @@
-## Øzark Infinite Treasure Maps Guide
+# Øzark Infinite Treasure Maps Guide
 
 
 ### How to use infinite treasure maps:
-
 #### How to get and collect treasure maps:
 - You get treasure maps every 5 level/ranks.
 - You can collect your treasure maps from your mailbox in the Post Office or from your lockbox.
