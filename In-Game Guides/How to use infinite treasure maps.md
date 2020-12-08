@@ -1,8 +1,8 @@
 # Øzark Infinite Treasure Maps Guide
 
 ### How to get and collect treasure maps:
-- You get treasure maps every 5 level/ranks.
-- You can collect your treasure maps from your mailbox in the Post Office or from your lockbox.
+- You get 1 treasure map every 5 level/ranks.
+- You can collect your treasure map(s) from your mailbox in the Post Office or from your lockbox.
 
 ### The actual guide:
 1. Go into `Network > Account > Treasure [RISK]` and enable "Infinite Treasure Maps".
