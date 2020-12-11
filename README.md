@@ -19,5 +19,6 @@
 - [Quick Fixes (not finished yet!)](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/Quick%20Fixes.md)
 
 ## Feature List:
-* <details><summary>Main Menu</summary><img src=""></details>
+* <details><summary>Main Menu</summary><img src=""></details>#
+
   * <details><summary>Player Menu</summary><img src=""></details>
