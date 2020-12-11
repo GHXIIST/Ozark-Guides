@@ -1,4 +1,4 @@
-# Øzark Feature List
+# Øzark Feature List [V1.2.5]
 
 <details><summary>Main Menu</summary><img src=""></details>
 
