@@ -32,4 +32,4 @@ ___
 - **A:** The `[SH]` tag stands for "Script Host", the script host is the host of scripted events like free mode/free roam events as an example.
 ___
 - **Q:** What's the Overseer?
-- **A:** It's basically a list where you can save other players, who you want to keep tabs on/grief or make sure they aren't trying to join you again. If you saved players, you can also join them, as an example.
+- **A:** It's basically a (black-)list where you can save other players, who you want to keep tabs on/grief or make sure they aren't trying to join you again. If you've saved players, you can also join them, as an example.
