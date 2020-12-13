@@ -21,4 +21,4 @@
 - [Quick Fixes](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/Quick%20Fixes.md) (Not finished yet!)
 
 ## Feature List:
-- [Øzark Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/List/Feature%20List.md) [V1.2.5] (Not finished yet!)
+- [Øzark Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/List/Feature%20List.md) [v1.2.5] (Not finished yet!)
