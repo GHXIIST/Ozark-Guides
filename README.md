@@ -8,7 +8,9 @@ A collection of Øzark Guides & Fixes in written form.
 - [How to install translations](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20install%20translations.md)
 - [How to manual inject Øzark](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md)
 
-
+## Game Specific Guides:
+- [Øzark RDR](https://github.com/GHXIIST/Ozark-Guides/tree/master/%C3%98zark-RDR)
+- [Øzark GTA]()
 
 ## Fixes:
 - [How to fix "Your Virus & threat protection is managed by your organisation"](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/How%20to%20fix%20%22Your%20Virus%20%26%20threat%20protection%20is%20managed%20by%20your%20organisation%22.md)
