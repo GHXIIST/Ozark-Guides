@@ -17,4 +17,5 @@ A collection of Øzark Guides & Fixes in written form.
 - [Quick Fixes](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/Quick%20Fixes.md) (Not finished yet!)
 
 ## Feature Lists:
-- [Øzark-RDR Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-RDR/List/Feature%20List.md) [v1.2.5] (Not finished yet!)
+- [Øzark-RDR Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/List/Feature%20List.md) [v1.2.5] (Not finished yet!)
+- [Øzark-GTA Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/Feature%20List/Feature%20List.md) (Not finished yet!)
