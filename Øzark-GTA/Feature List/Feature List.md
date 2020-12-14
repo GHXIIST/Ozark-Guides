@@ -1,7 +1,5 @@
 # Øzark-GTA Feature List
 
-
-<details><summary>Player Menu</summary>
 - **Player**
   - Appearance
     - Model
@@ -36,4 +34,3 @@
   - Badsport mode
   - Breathe Fire
   - Swim Anywhere
-</details>
