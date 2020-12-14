@@ -12,4 +12,4 @@
 ```"username": "username12345"``` (don't replace "username")
 5. Once you have Xenos, load into the **main menu** of RDR2 and open Xenos64 from the zip that was downloaded/provided.
 6. In the process list choose `RDR2.EXE`, once selected click "add" and go into the Ozark folder you dragged to your desktop.
-7. Choose `rdr2.dll` and press inject.
+7. Choose `bypass.dll` and press inject.
