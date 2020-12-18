@@ -1,8 +1,8 @@
 # Øzark-GTA Feature List
 
 <details>
--  **Player**
-  - Appearance
+*  **Player**
+  *  Appearance
     - Model
       - Refresh Model
       - Set Player Model
