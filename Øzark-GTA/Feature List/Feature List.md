@@ -34,7 +34,6 @@
   - Badsport mode
   - Breathe Fire
   - Swim Anywhere
-
 - **Network**
   - Players
     - Friendly
