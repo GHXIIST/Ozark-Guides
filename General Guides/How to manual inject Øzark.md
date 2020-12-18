@@ -10,6 +10,6 @@
 4. Type your password in between the quotations. It should look like this:
 ```"password": "password12345"``` (don't replace "password")
 ```"username": "username12345"``` (don't replace "username")
-5. Once you have Xenos, load into the **main menu** of RDR2 and open Xenos64 from the zip that was downloaded/provided.
+5. Once you have Xenos, load into the **main menu** of RDR2/GTA5 and open Xenos64 from the zip that was downloaded/provided.
 6. In the process list choose `RDR2.EXE`/`GTA5.exe`, once selected click "add" and go into the Ozark folder you dragged to your desktop.
-7. Choose `bypass.dll` (for RDR) or `client.dll` (for GTA) and press inject.
+7. Choose `bypass.dll` (for RDR2) or `client.dll` (for GTA5) and press inject.
