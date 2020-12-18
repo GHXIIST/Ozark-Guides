@@ -1,5 +1,6 @@
 # Øzark-GTA Feature List
 
+<details>
 - **Player**
   - Appearance
     - Model
@@ -34,3 +35,37 @@
   - Badsport mode
   - Breathe Fire
   - Swim Anywhere
+</details>
+
+- **Network**
+  - Players
+    - Friendly
+      - Drops
+      - Give All Weapons
+      - Remove Attachments
+      - Demi Godmode
+      - Give Off The Radar
+      - Disable Police
+      - Revenge
+      - Commends
+      - Spawn Bodyguards
+    - Abusive
+      - Custom Explosion
+      - Attackers
+      - Always Wanted (Loop)
+      - Freeze (Loop)
+      - Taze (Loop)
+      - Ragdoll (Loop)
+      - Kick From Vehicle (Loop)
+      - Glitch Physics (Loop)
+      - Forcefield (Loop)
+      - Rain Rockets (Loop)
+      - Blame
+      - Black Screen
+      - Set On Fire
+      - Explode
+      - Ceo Kick
+      - Ceo Ban
+      - Rape Them
+      - They Rape You
+    - Trolling
