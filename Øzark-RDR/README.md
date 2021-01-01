@@ -9,7 +9,7 @@ A collection of Øzark Guides & Fixes in written form.
 - [How to manual inject Øzark](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md)
 
 ## In-Game Guides:
-- [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Player%20Tags.md)
+- [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-RDR/In-Game%20Guides/Player%20Tags.md)
 - [Rank & Cash Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Fast%20Rank%20and%20Cash%20guide.md) [Removed]
 - [Gold Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Gold%20Guide.md) [Removed]
 - [Infinite Treasure Maps Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20infinite%20treasure%20maps.md) [Removed]
