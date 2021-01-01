@@ -15,7 +15,3 @@ A collection of Øzark Guides & Fixes in written form.
 ## Fixes:
 - [How to fix "Your Virus & threat protection is managed by your organisation"](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/How%20to%20fix%20%22Your%20Virus%20%26%20threat%20protection%20is%20managed%20by%20your%20organisation%22.md)
 - [Quick Fixes](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/Quick%20Fixes.md) (Not finished yet!)
-
-## Feature Lists:
-- [Øzark-RDR Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-RDR/Feature%20List/Feature%20List.md) [v1.2.5] (Not finished yet!)
-- [Øzark-GTA Feature List](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/Feature%20List/Feature%20List.md) (Not finished yet!)
