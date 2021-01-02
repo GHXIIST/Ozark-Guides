@@ -4,6 +4,6 @@
 - ### `[SH]` = Script Host
 - ### `[M]` = Modder
 - ### `[F]` = Friend
-- ### `[Øzark]` = Øzark User
-- ### `[Øzark - Dev]` = Øzark Developer
-- ### `[Spec]` = Spectating
+- ### `[Ozark]` = Øzark User
+- ### `[Ozark - Dev]` = Øzark Developer
+- ### `[SPEC]` = Spectating
