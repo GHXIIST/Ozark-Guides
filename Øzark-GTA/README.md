@@ -10,6 +10,7 @@ A collection of Øzark Guides & Fixes in written form.
 - [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/Player%20Tags.md)
 
 ## In-Game Guides:
+- [WIP]()
 
 
 ## Fixes:
