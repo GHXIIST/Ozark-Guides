@@ -5,6 +5,6 @@
 - ### `[SC-H]` = Script Host | GTA
 - ### `[M]` = Modder
 - ### `[F]` = Friend
-- ### `[Ozark]` = Øzark User
-- ### `[Ozark - Dev]` = Øzark Developer
 - ### `[SPEC]` = Spectating
+- ### `[Ozark]` = Øzark User | RDR
+- ### `[Ozark - Dev]` = Øzark Developer | RDR
