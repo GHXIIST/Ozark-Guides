@@ -7,7 +7,7 @@ A collection of Øzark Guides & Fixes in written form.
 - [How to install scripts](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20install%20scripts.md)
 - [How to install translations](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20install%20translations.md)
 - [How to manual inject Øzark](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md)
-- [Player Tags]
+- [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/Player%20Tags.md)
 
 ## Game Specific Guides:
 - [Øzark RDR](https://github.com/GHXIIST/Ozark-Guides/tree/master/%C3%98zark-RDR) [REMOVED]
