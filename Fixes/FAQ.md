@@ -1,4 +1,4 @@
-# Quick Fixes For Øzark (not finished yet!)
+# Quick Fixes and FAQ For Øzark (WIP)
 
 
 ## Common Problems and Solutions/Fixes:
