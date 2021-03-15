@@ -2,7 +2,7 @@
 
 ### Colors:
 Acronym | Color
-––––––– | –––––
+------- | ------
 `~r~` | Red
 `~b~` | Blue
 `~o~` | Orange
