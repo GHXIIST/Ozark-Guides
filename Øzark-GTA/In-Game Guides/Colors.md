@@ -1,23 +1,24 @@
 # Colors, Icons and Misc
 
-### Colors:
+## Colors:
 Acronym | Color
 ------- | ------
-`~r~` | Red
+`~l~` or `~u~` or `~v~` | Black
 `~b~` | Blue
-`~o~` | Orange
+`~d~` | Dark Blue
+`~m~` | Dark Grey
+`~g~` | Green
 `~c~` | Grey
 `~f~` | Light Blue
-`~l~` or `~u~` or `~v~` | Black
-`~g~` | Green
-`~y~` | Yellow
-`~p~` | Purple
-`~m~` | Dark Grey
-`~s~` or `~t~` | White
-`~d~` | Dark Blue
+`~o~` | Orange
 `~q~` | Pink
+`~p~` | Purple
+`~r~` | Red
+`~s~` or `~t~` | White
+`~y~` | Yellow
 
-### Icons:
+
+## Icons:
 Acronym | Icon
 ------- | --------
 `÷` | Rockstar Icon
@@ -26,7 +27,7 @@ Acronym | Icon
 `Ω` | Lock Icon
 `~ws~` | Wanted Star
 
-### Misc:
+## Misc:
 Acronym | Misc
 ------- | --------
 `~bold~` or `~h~` | Bold
