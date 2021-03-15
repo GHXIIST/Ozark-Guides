@@ -1,4 +1,4 @@
-# Øzark Guides & Fixes
+# Øzark Guides
 A collection of Øzark Guides & Fixes in written form.
 
 ## General Øzark Guides & Info:
