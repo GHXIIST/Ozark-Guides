@@ -1,19 +1,21 @@
 # Colors, Icons and *Fonts*
 
 ### Colors:
-⋅⋅⋅`~r~` = Red
-⋅⋅⋅`~b~` = Blue
-⋅⋅⋅`~o~` = Orange
-`~c~` = Grey
-`~f~` = Light Blue
-`~l~` or ~u~ or ~v~ = Black
-`~g~` = Green
-`~y~` = Yellow
-`~p~` = Purple
-`~m~` = Dark Grey
-`~s~` or ~t~ = White
-`~d~` = Dark Blue
-`~q~` = Pink
+Acronym | Color
+––––––– | –––––
+`~r~` | Red
+`~b~` | Blue
+`~o~` | Orange
+`~c~` | Grey
+`~f~` | Light Blue
+`~l~` or `~u~` or `~v~` | Black
+`~g~` | Green
+`~y~` | Yellow
+`~p~` | Purple
+`~m~` | Dark Grey
+`~s~` or `~t~` | White
+`~d~` | Dark Blue
+`~q~` | Pink
 
 ### Icons:
 `÷` = Rockstar Icon
