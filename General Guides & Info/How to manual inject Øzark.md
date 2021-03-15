@@ -14,5 +14,4 @@
 6. Once you have Xenos, load into the **main menu** of RDR2/GTA5 and open Xenos64 from the zip that was downloaded/provided.
 7. In the process list choose `RDR2.exe`/`GTA5.exe`, once selected click "add" and go into the Ozark folder, which you dragged into your documents folder.
 8. **For RDR:** Go into the `Red Dead Redemption 2` folder, choose `bypass.dll` (only for RDR2) and press inject.
-
-⋅⋅⋅**For GTA:** Go into the `Grand Theft Auto V` folder, choose `client.dll` (only for GTA5) and press inject.⋅⋅
+   **For GTA:** Go into the `Grand Theft Auto V` folder, choose `client.dll` (only for GTA5) and press inject.
