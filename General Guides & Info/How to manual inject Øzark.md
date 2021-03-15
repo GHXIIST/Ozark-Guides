@@ -1,7 +1,7 @@
 # Øzark Manual Injection Guide
 
 ### How to download Xenos:
-1. Go to [`Releases`](https://github.com/DarthTon/Xenos) and download the latest version of Xenos.
+1. Go to [`Releases`](https://github.com/DarthTon/Xenos/releases) and download the latest version of Xenos.
 
 ### How manual inject Øzark using Xenos:
 1. [Download the Manual Files](https://ozark.gg/download.php) from our website (you'll need to have Winrar or 7zip installed).
