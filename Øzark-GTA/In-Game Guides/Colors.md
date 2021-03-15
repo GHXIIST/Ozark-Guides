@@ -1,4 +1,4 @@
-# Colors, Icons and *Fonts*
+# Colors, Icons and Misc
 
 ### Colors:
 Acronym | Color
@@ -18,13 +18,17 @@ Acronym | Color
 `~q~` | Pink
 
 ### Icons:
-`÷` = Rockstar Icon
-`∑`/`~ex_r~` = Rockstar Icon #2
-`¦` = Rockstar Verified Icon
-`Ω` = Lock Icon
-`~ws~` = Wanted Star
+Acronym | Icon
+------- | --------
+`÷` | Rockstar Icon
+`∑`/`~ex_r~` | Rockstar Icon #2
+`¦` | Rockstar Verified Icon
+`Ω` | Lock Icon
+`~ws~` | Wanted Star
 
 ### Misc:
-`~bold~` or `~h~` = Bold
-`~italic~` or `<i>` = Italic
-`~n~` = Skip Line
+Acronym | Misc
+------- | --------
+`~bold~` or `~h~` | Bold
+`~italic~` or `<i>` | Italic
+`~n~` | Skip Line
