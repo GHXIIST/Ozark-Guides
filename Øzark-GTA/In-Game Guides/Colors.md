@@ -1,9 +1,9 @@
 # Colors, Icons and *Fonts*
 
 ### Colors:
-`~r~` = Red
-`~b~` = Blue
-`~o~` = Orange
+⋅⋅⋅`~r~` = Red
+⋅⋅⋅`~b~` = Blue
+⋅⋅⋅`~o~` = Orange
 `~c~` = Grey
 `~f~` = Light Blue
 `~l~` or ~u~ or ~v~ = Black
@@ -15,11 +15,11 @@
 `~d~` = Dark Blue
 `~q~` = Pink
 
-### Special/Icons:
+### Icons:
 `÷` = Rockstar Icon
 `∑`/`~ex_r~` = Rockstar Icon #2
 `¦` = Rockstar Verified Icon
-`Ω` = Lock icon
+`Ω` = Lock Icon
 `~ws~` = Wanted Star
 
 ### Misc:
