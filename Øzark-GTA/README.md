@@ -10,7 +10,7 @@ A collection of Øzark Guides & Fixes in written form.
 - [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/Player%20Tags.md)
 
 ## In-Game Guides:
-- [Colors](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/In-Game%20Guides/Colors.md)
+- [Colors, Icons & Misc](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/In-Game%20Guides/Colors.md)
 
 
 ## Fixes/FAQ:
