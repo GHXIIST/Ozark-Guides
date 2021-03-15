@@ -15,14 +15,14 @@ ___
 - **A:** Run Øzark using a VPN.
 ___
 #### If you're having issues with your credentials, you can do one of two things:
-1. Re-download the latest files from the website and use our manual files. Copy the ozark folder from the download into your documents folder and type in your credentials to the `Ozark.auth` file. If you're manually injecting RDR2, you'll want to inject `bypass.dll` (RDR) or `client.dll`(GTA). You'll find more info on how to manual inject [here](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md).
+1. Re-download the latest files from the website and use our manual files. Copy the ozark folder from the download into your documents folder and type in your credentials to the `Ozark.auth` file. If you're manually injecting RDR2, you'll want to inject `bypass.dll` [RDR] or `client.dll`[GTA]. You'll find more info on how to manual inject [here](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md).
 2. Re-download the latest files from the website, grab the `Ozark.auth` file and put it in `Documents/Ozark/Red Dead Redemption 2`/`Documents/Ozark/Grand Theft Auto V`. The menu(s) will automatically pick up on the file and use that instead. You can then proceed to use the launcher to inject. If the launcher has issues for you, see step 1.
 
 
 
 ## Some Random Q&A:
 - **Q:** When do I inject?
-- **A:** At the main menu, not in SP, not in online.
+- **A:** At the main menu, not in SP, not in online. (RDR only)
 ___
 - **Q:** How do I open Øzark?
 - **A:** You open Øzark by pressing F4.
@@ -33,8 +33,8 @@ ___
 - **Q:** Does Øzark work on Windows 7?
 - **A:** Yes it does.
 ___
-- **Q:** What does the `[SH]` tag next to a player means?
-- **A:** The `[SH]` tag stands for "Script Host", the script host is the host of scripted events like free mode/free roam events as an example.
+- **Q:** What does the `[SH]`/`[SC-H]` tag next to a player means?
+- **A:** The `[SH]`/`[SC-H]` tag stands for "Script Host", the script host is the host of scripted events like free mode/free roam events as an example.
 ___
 - **Q:** What's the Overseer?
 - **A:** It's basically a (black-)list where you can save other players, who you want to keep tabs on/grief or make sure they aren't trying to join you again. If you've saved players, you can also join them, as an example.
