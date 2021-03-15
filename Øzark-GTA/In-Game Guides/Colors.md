@@ -21,7 +21,7 @@ Acronym | Color
 Acronym | Icon
 ------- | --------
 `÷` | Rockstar Icon
-`∑`/`~ex_r~` | Rockstar Icon #2
+`∑` or `~ex_r~` | Rockstar Icon #2
 `¦` | Rockstar Verified Icon
 `Ω` | Lock Icon
 `~ws~` | Wanted Star
