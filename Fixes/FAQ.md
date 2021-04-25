@@ -14,9 +14,16 @@ ___
 - **Q:** How to fix "Bad Image" error.
 - **A:** Run Øzark using a VPN.
 ___
-#### If you're having issues with your credentials, you can do one of two things:
-1. Re-download the latest files from the website and use our manual files. Copy the ozark folder from the download into your documents folder and type in your credentials to the `Ozark.auth` file. If you're manually injecting RDR2, you'll want to inject `bypass.dll` [RDR] or `client.dll`[GTA]. You'll find more info on how to manual inject [here](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md).
-2. Re-download the latest files from the website, grab the `Ozark.auth` file and put it in `Documents/Ozark/Red Dead Redemption 2`/`Documents/Ozark/Grand Theft Auto V`. The menu(s) will automatically pick up on the file and use that instead. You can then proceed to use the launcher to inject. If the launcher has issues for you, see step 1.
+#### `Auth | Please check your credentials`:
+1. Re-download the latest files from the website and use the manual files. Copy the ozark folder from the downloaded zip into your documents folder and enter your credentials in the `Ozark.auth` file. If you're manually injecting, you'll have to inject `bypass.dll` [RDR] or `client.dll`[GTA]. You'll find more info on how to manual inject [here](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md).
+2. Navigate to your Øzark folder (), find the file called `Ozark.auth` and open it with notepad. Make sure the details are up to date and/or if the file doesn't exist simply create a file called Ozark.auth, then inside the file enter your credentials.
+Replace *yourusername123* with your username and *yourpassword123* with your password:
+```
+{
+    "username": "yourusername123",
+    "password": "yourpassword123"
+}
+```
 
 
 
