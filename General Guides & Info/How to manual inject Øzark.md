@@ -8,8 +8,12 @@
 2. Open `Ozark.zip` and drag the whole Ozark folder onto your desktop. 
 3. Open the Ozark folder and right click on `Ozark.auth`, open it with notepad or any other text editor. 
 4. Enter your username and password in between the quotations. It should look like this:
-```"username": "yourusername12345"``` (don't replace "username")
-```"password": "yourpassword12345"``` (don't replace "password")
+```
+{
+    "username": "yourusername123",  // (don't replace "username")
+    "password": "yourpassword123"   // (don't replace "password")
+}
+```
 5. Drag the Ozark folder into your documents folder.
 6. Once you have Xenos, load into the **main menu** of RDR2/GTA5 and open Xenos64 from the zip that was downloaded/provided.
 7. In the process list choose `RDR2.exe`/`GTA5.exe`, once selected click "add" and go into the Ozark folder, which you dragged into your documents folder.
