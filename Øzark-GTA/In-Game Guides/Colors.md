@@ -24,6 +24,8 @@ Acronym | Icon
 `÷` | Rockstar Icon
 `∑` or `~ex_r~` | Rockstar Icon #2
 `¦` | Rockstar Verified Icon
+`‹` | Rockstar Created Icon
+`›` | Blank White Icon
 `Ω` | Lock Icon
 `~ws~` | Wanted Star
 
