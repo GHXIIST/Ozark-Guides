@@ -24,8 +24,8 @@ Acronym | HTML Numeric Code | Icon
 `÷` | `&#247;` | Rockstar Icon
 `∑` or `~ex_r~` | `&#8721;` or `&#126;ex_r&#126;` | Rockstar Icon #2
 `¦` | `&#166;` | Rockstar Verified Icon
-`‹` | `&#x2039;` | Rockstar Created Icon
-`›` | `&#x203a;` |Blank White Icon
+`‹` | `&#8249;` | Rockstar Created Icon
+`›` | `&#8250;` |Blank White Icon
 `Ω` | `&#937;` | Lock Icon
 `~ws~` | `&#126;ws&#126;` | Wanted Star
 
