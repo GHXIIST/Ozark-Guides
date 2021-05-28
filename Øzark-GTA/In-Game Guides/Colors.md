@@ -1,8 +1,8 @@
 # Colors, Icons and Misc
 
 ## Colors:
-Acronym | HTML Numeric Code | Color
-------- | ----------------- | -----
+Acronym | HTML Unicode (Decimal Code) | Color
+------- | --------------------------- | -----
 `~l~` or `~u~` or `~v~` | `&#126;l&#126;` or `&#126;u&#126;` or `&#126;v&#126;` | Black
 `~b~` | `&#126;b&#126;` | Blue
 `~d~` | `&#126;d&#126;` | Dark Blue
@@ -19,8 +19,8 @@ Acronym | HTML Numeric Code | Color
 
 
 ## Icons:
-Acronym | HTML Numeric Code | Icon
-------- | ----------------- | ----
+Acronym | HTML Unicode (Decimal Code) | Icon
+------- | --------------------------- | ----
 `÷` | `&#247;` | Rockstar Icon
 `∑` or `~ex_r~` | `&#8721;` or `&#126;ex_r&#126;` | Rockstar Icon #2
 `¦` | `&#166;` | Rockstar Verified Icon
@@ -30,8 +30,8 @@ Acronym | HTML Numeric Code | Icon
 `~ws~` | `&#126;ws&#126;` | Wanted Star
 
 ## Misc:
-Acronym | HTML Numeric Code | Misc
-------- | ----------------- | ----
+Acronym | HTML Unicode (Decimal Code) | Misc
+------- | --------------------------- | ----
 `~bold~` or `~h~` | `&#126;bold&#126;` or `&#126;h&#126;` | Bold
 `~italic~` or `<i>` | `&#126;italic&#126;` or `&#60;i&#62;` | Italic
 `~n~` | `&#126;n&#126;` | Skip Line
