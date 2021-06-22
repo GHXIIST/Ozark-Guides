@@ -1,4 +1,3 @@
-![alt text](stuff/OzarkBanner.png)
 # Øzark Guides
 A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 
