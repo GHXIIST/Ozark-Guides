@@ -19,6 +19,6 @@ A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 - [GTA FAQ](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/In-Game%20Guides/GTA-FAQ.md)
 - [RDR FAQ]() [nonexistent]
 
-### Discord
+## Discord
 - [RDR](https://discord.gg/K4aBfr5nXx)
 - [GTA](https://discord.gg/KtUnUk5QQt)
