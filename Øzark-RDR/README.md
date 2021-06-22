@@ -23,5 +23,5 @@ A collection of Øzark Guides & Fixes in written form.
 ## Changelog:
 v17
 ```
-[-] New bypass, currently in beta testing
+[+] New bypass, currently in beta testing
 ```
