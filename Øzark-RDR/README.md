@@ -19,3 +19,9 @@ A collection of Øzark Guides & Fixes in written form.
 ## Fixes/FAQ:
 - [How to fix "Your Virus & threat protection is managed by your organisation"](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/How%20to%20fix%20'Your%20Virus%20%26%20threat%20protection%20is%20managed%20by%20your%20organisation.md)
 - [FAQ](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/FAQ.md) [WIP]
+
+## Changelog:
+v17
+```
+[-] New bypass, currently in beta testing
+```
