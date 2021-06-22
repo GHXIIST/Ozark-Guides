@@ -1,6 +1,5 @@
 # Øzark Guides
-A collection of Øzark Guides & Fixes in written form.
-[Website](https://ozark.gg)
+A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 
 ## General Øzark Guides & Info:
 - [How to redeem your token](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20redeem%20your%20token.md)
