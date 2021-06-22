@@ -7,7 +7,7 @@
 ### How do I open Øzark?
 > You open Øzark by pressing F4.
 ### How can I open Øzark using a controller?
-> For Xbox press `RB` & `Right Dpad`, for PS4 press `R1` & `Right Dpad`.
+> For Xbox press `RB` & `Right DPAD`, for PS4 press `R1` & `Right DPAD`.
 ### Does Øzark work on Windows 7?
 > Yes it does.
 ### What does the `[SH]`/`[SC-H]` tag next to a player means?
