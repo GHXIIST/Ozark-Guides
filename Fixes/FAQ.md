@@ -1,8 +1,6 @@
 # FAQ & Fixes
 
 
-## Some Random Q&A:
-
 ### When do I inject?
 > RDR: At the __main menu__, not in SP, not in online. (**RDR only!**)
 
