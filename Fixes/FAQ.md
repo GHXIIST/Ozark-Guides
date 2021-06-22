@@ -2,8 +2,8 @@
 
 
 ### When do I inject?
-> RDR: At the __main menu__, not in SP, not in online. (**RDR only!**).
-> GTA: Preferable in SP.
+> • RDR: At the __main menu__, not in SP, not in online. (**RDR only!**).
+> • GTA: Preferable in SP.
 ### How do I open Øzark?
 > You open Øzark by pressing F4.
 ### How can I open Øzark using a controller?
