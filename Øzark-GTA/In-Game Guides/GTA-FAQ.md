@@ -17,8 +17,7 @@
 
 ### 6: How do i get lifetime role? 
     Take a screenshot with discord open (your tag visible) and the launcher open along side it ex:
-    
-    ![alt text](https://i.imgur.com/teN1n5Q.png "Verification Example")
+![alt text](https://i.imgur.com/teN1n5Q.png "Verification Example")
 
 ### 7: What is the best way to make money? 
     It would be best to follow the vehicle sell method in #open-support
