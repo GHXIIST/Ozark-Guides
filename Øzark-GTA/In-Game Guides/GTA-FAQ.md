@@ -15,7 +15,7 @@
 ### 5: How do I get my password reset? 
 > Contact your reseller, if they are unavailable make a ticket and ping me.
 
-### 6: How do I get lifetime role? 
+### 6: How do I get the lifetime role? 
 > 1. Open a ticket in [#gta-support](https://discord.com/channels/756197840518119476/771077552495656971). 
 > 2. Take a screenshot with discord open (your tag visible) and the launcher open along side it ex:
 
