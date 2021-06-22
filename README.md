@@ -18,7 +18,3 @@ A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 - [RDR FAQ]() [nonexistent]
 - [GTA FAQ](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/In-Game%20Guides/GTA-FAQ.md)
 - [How to fix "Your Virus & threat protection is managed by your organisation"](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/How%20to%20fix%20'Your%20Virus%20%26%20threat%20protection%20is%20managed%20by%20your%20organisation.md)
-
-## Discord
-- [RDR](https://discord.gg/K4aBfr5nXx)
-- [GTA](https://discord.gg/KtUnUk5QQt)
