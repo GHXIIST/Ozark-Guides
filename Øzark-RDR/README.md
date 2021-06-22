@@ -23,5 +23,6 @@ A collection of Øzark Guides & Fixes in written form.
 ## [Changelog:](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-RDR/In-Game%20Guides/Changelogs.md)
 v17
 ```
-[+] New bypass, currently in beta testing
+General
+• New bypass, currently in beta testing
 ```
