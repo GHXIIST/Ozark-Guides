@@ -27,7 +27,7 @@
 > Disable your VM and/or disable (hardware) virtualization.
 ### How to fix "Bad Image" error.
 > Run Øzark using a VPN.
-### `Auth | Please check your credentials` (1. or 2.
+### `Auth | Please check your credentials` (1. or 2.)
 > 1. Re-download the latest files from the website and use the manual files. Copy the ozark folder from the downloaded zip into your documents folder and enter your credentials in the `Ozark.auth` file. If you're manually injecting, you'll have to inject `bypass.dll` [RDR] or `client.dll` [GTA]. You'll find more info on how to manual inject [here](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides/How%20to%20manual%20inject%20%C3%98zark.md).
 > 2. Navigate to your Øzark folder (C:\Users\Documents\Ozark), find the file called `Ozark.auth` and open it with notepad. Make sure the details are up to date and/or if the file doesn't exist simply create a file called Ozark.auth, then inside the file enter your credentials.
 >Replace *yourusername123* with your username and *yourpassword123* with your password:
