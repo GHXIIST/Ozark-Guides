@@ -1,10 +1,6 @@
 # Øzark Guides
 A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 
-## Discord
-- [RDR](https://discord.gg/K4aBfr5nXx)
-- [GTA](https://discord.gg/KtUnUk5QQt)
-
 ## General Øzark Guides & Info:
 - [How to redeem your token](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20redeem%20your%20token.md)
 - [How to reset your HWID](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20reset%20your%20HWID.md)
@@ -22,3 +18,7 @@ A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 - [FAQ](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/FAQ.md) [WIP]
 - [GTA FAQ](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-GTA/In-Game%20Guides/GTA-FAQ.md)
 - [RDR FAQ]() [nonexistent]
+
+### Discord
+- [RDR](https://discord.gg/K4aBfr5nXx)
+- [GTA](https://discord.gg/KtUnUk5QQt)
