@@ -20,7 +20,7 @@
 ![alt text](https://i.imgur.com/teN1n5Q.png "Verification Example")
 
 ### 7: What is the best way to make money? 
-    It would be best to follow the vehicle sell method in #open-support
+    It would be best to follow the vehicle sell method in [#open-support](https://discord.com/channels/756197840518119476/807140716693422087)
 
 ### 8: Why do my friends get an error when i am dropping them money?
     There is a 60k cap, they will need to switch sessions or wait.
