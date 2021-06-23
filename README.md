@@ -17,4 +17,4 @@ A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 - [FAQ](/Fixes/FAQ.md) [WIP]
 - [RDR FAQ]() [nonexistent]
 - [GTA FAQ](/%C3%98zark-GTA/In-Game-Guides/GTA-FAQ.md)
-- [How to fix "Your Virus & threat protection is managed by your organisation"](/Fixes/How-to-fix-"Your-Virus-%26-threat-protection-is-managed-by-your-organisation.md)
+- [How to fix "Your Virus & threat protection is managed by your organisation"](/Fixes/How-to-fix-"Your-Virus-%26-threat-protection-is-managed-by-your-organisation".md)
