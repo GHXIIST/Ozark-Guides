@@ -1,7 +1,7 @@
 # GTA FAQ
 
 ### 1: I got an error that said my HWID doesn't match what should I do?
-> Check the [How to reset your HWID](/General-Guides-%26-Info/How-to-reset-your-HWID.md) guide.
+> Check the [How to reset your HWID](/General-Guides-and-Info/How-to-reset-your-HWID.md) guide.
 
 ### 2: How do I open the menu?
 > Press F4 on keyboard or RB/R1 and right on DPAD for controller.
