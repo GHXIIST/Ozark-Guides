@@ -4,9 +4,9 @@ A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 ## General Øzark Guides & Info:
 - [How to redeem your token](/General-Guides-%26-Info/How-to-redeem-your-token.md)
 - [How to reset your HWID](/General-Guides-%26-Info/How-to-reset-your-HWID.md)
-- [How to install scripts](](/General-Guides-%26-Info/How-to-install-scripts.md)
+- [How to install scripts](/General-Guides-%26-Info/How-to-install-scripts.md)
 - [How to install translations](/General-Guides-%26-Info/How-to-install-translations.md)
-- [How to manual inject Øzark](](/General-Guides-%26-Info/How-to-manual-inject-%C3%98zark.md)
+- [How to manual inject Øzark](/General-Guides-%26-Info/How-to-manual-inject-%C3%98zark.md)
 - [Player Tags](/General-Guides-%26-Info/Player-Tags.md)
 
 ## Game Specific Guides:
