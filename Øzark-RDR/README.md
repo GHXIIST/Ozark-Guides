@@ -2,26 +2,26 @@
 A collection of Øzark Guides & Fixes in written form.
 
 ## General Øzark Guides & Info:
-- [How to redeem your token](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20redeem%20your%20token.md)
-- [How to reset your HWID](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20reset%20your%20HWID.md)
-- [How to install scripts](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20install%20scripts.md)
-- [How to install translations](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20install%20translations.md)
-- [How to manual inject Øzark](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/How%20to%20manual%20inject%20%C3%98zark.md)
-- [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/Player%20Tags.md)
+- [How to redeem your token](/General-Guides-%26-Info/How-to-redeem-your-token.md)
+- [How to reset your HWID](/General-Guides-%26-Info/How-to-reset-your-HWID.md)
+- [How to install scripts](/General-Guides-%26-Info/How-to-install-scripts.md)
+- [How to install translations](/General-Guides-%26-Info/How-to-install-translations.md)
+- [How to manual inject Øzark](/General-Guides-%26-Info/How-to-manual-inject-%C3%98zark.md)
+- [Player Tags](/General-Guides-%26-Info/Player-Tags.md)
 
 ## In-Game Guides:
-- [Rank & Cash Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Fast%20Rank%20and%20Cash%20guide.md) [Removed]
-- [Gold Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/Gold%20Guide.md) [Removed]
-- [Infinite Treasure Maps Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20infinite%20treasure%20maps.md) [Removed]
-- [Moonshine Role Booster Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20Moonshine%20Role%20Booster.md) [Removed]
-- [Trader Role Booster Guide](https://github.com/GHXIIST/Ozark-Guides/blob/master/In-Game%20Guides/How%20to%20use%20Trader%20Role%20Booster.md) [Removed]
+- [Rank & Cash Guide](/In-Game-Guides/Fast-Rank-and-Cash-guide.md) [Removed]
+- [Gold Guide](/In-Game-Guides/Gold-Guide.md) [Removed]
+- [Infinite Treasure Maps Guide](/In-Game-Guides/How-to-use-infinite-treasure-maps.md) [Removed]
+- [Moonshine Role Booster Guide](/In-Game-Guides/How-to-use-Moonshine-Role-Booster.md) [Removed]
+- [Trader Role Booster Guide](/In-Game-Guides/How-to-use-Trader-Role-Booster.md) [Removed]
 
 ## FAQ/Fixes:
-- [FAQ](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/FAQ.md) [WIP]
+- [FAQ](/Fixes/FAQ.md) [WIP]
 - [RDR FAQ]() [nonexistent]
-- [How to fix "Your Virus & threat protection is managed by your organisation"](https://github.com/GHXIIST/Ozark-Guides/blob/master/Fixes/How%20to%20fix%20'Your%20Virus%20%26%20threat%20protection%20is%20managed%20by%20your%20organisation.md)
+- [How to fix "Your Virus & threat protection is managed by your organisation"](/Fixes/How-to-fix-"Your-Virus-%26-threat-protection-is-managed-by-your-organisation".md)
 
-## [Changelog:](https://github.com/GHXIIST/Ozark-Guides/blob/master/%C3%98zark-RDR/In-Game%20Guides/Changelogs.md)
+## [Changelog:](/%C3%98zark-RDR/In-Game-Guides/Changelogs.md)
 v17
 ```
 General
