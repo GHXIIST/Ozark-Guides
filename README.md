@@ -10,7 +10,7 @@ A collection of [Øzark](https://ozark.gg) Guides & Fixes in written form.
 - [Player Tags](https://github.com/GHXIIST/Ozark-Guides/blob/master/General%20Guides%20%26%20Info/Player%20Tags.md)
 
 ## Game Specific Guides:
-- [Øzark RDR](https://ghxiist.github.io/Ozark-Guides/tree/master/%C3%98zark-RDR) [REMOVED]
+- [Øzark RDR](https://github.com/GHXIIST/Ozark-Guides/tree/master/%C3%98zark-RDR) [REMOVED]
 - [Øzark GTA](https://github.com/GHXIIST/Ozark-Guides/tree/master/%C3%98zark-GTA) [WIP]
 
 ## FAQ/Fixes:
